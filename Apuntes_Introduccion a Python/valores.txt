@@ -1,0 +1,2 @@
+10.5 hola 1.2 gato
+20.1 boligrafo 100.25 calculadora 3.3
